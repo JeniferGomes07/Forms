@@ -75,7 +75,7 @@ body{
     background-color: rgb(194, 135, 241, 0.5);
     color: white;
     transition: 0.3s;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .container #formulario a{
